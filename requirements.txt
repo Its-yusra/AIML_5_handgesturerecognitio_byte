@@ -1,0 +1,10 @@
+%%writefile requirements.txt
+
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+pillow
+kagglehub
